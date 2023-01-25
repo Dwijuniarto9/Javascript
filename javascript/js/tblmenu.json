@@ -1,0 +1,31 @@
+[
+    {
+    "idmenu" : 1,
+    "idkategori" : 1,
+    "menu" : "Bebek goreng",
+    "harga" : 13000,
+    "warna" : ["merah", "kuning", "hijau"],
+    "stok" : true,
+    "keterangan" : null
+},
+
+    {
+    "idmenu" : 2,
+    "idkategori" : 1,
+    "menu" : "Lemper",
+    "harga" : 5000,
+    "warna" : ["merah", "kuning"],
+    "stok" : false,
+    "keterangan" : null
+},  
+
+    {
+    "idmenu" : 2,
+    "idkategori" : 1,
+    "menu" : "Lumpia",
+    "harga" : 5000,
+    "warna" : ["merah", "kuning"],
+    "stok" : false,
+    "keterangan" : null
+}  
+]
